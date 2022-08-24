@@ -1,5 +1,5 @@
 
-# FRED Data pull and time series forecast
+# FRED data pull and time series forecast
 
 This program can help you connect with FRED database directly and query the any of series interested in with a minimal set of parameters to set. 
 
